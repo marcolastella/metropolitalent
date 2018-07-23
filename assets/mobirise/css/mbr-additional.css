@@ -1375,3 +1375,17 @@ body {
 .cid-qYCPQVULza {
   background-image: url("../../../assets/images/elizeu-dias-602245-unsplash-2000x1333.jpg");
 }
+.cid-qYCRGsQhJk {
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+}
+.cid-qYCRGsQhJk h1 {
+  color: #616161;
+}
+.cid-qYCRGsQhJk h2,
+.cid-qYCRGsQhJk h3,
+.cid-qYCRGsQhJk p {
+  color: #767676;
+}
+.cid-qYCRGsQhJk .mbr-section-subtitle {
+  font-style: italic;
+}
